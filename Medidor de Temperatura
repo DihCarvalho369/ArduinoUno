@@ -1,7 +1,3 @@
-/* 
- criado por: Domingos R Souza Junior
- blog: sistemasinterativoscomarduino.net
-*/
 
 #include <OneWire.h>                  // bilioteca OneWire
 #include <Wire.h>                     // usando a biblioteca Wire
